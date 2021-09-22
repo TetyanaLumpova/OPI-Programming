@@ -1,0 +1,43 @@
+// Example program
+#include <iostream>
+using namespace std;
+int main()
+{    int a,b,c; 
+ cout<<"¬ведите три числа"<<endl;
+ cout<<"¬водите первое число: ";
+ cin>>a;
+ cout<<"¬водите второе число: ";
+ cin>>b;
+ cout<<"¬водите третье число: ";
+ cin>>c;
+ cout << a << '\t' << b<<'\t' << c << endl; 
+a+=b+++c;
+cout << a << '\t' << b<<'\t' << c << endl; 
+}
+//***********************************
+// Example program
+#include <iostream>
+using namespace std;
+int main()
+{    int a,b,c; 
+ cout<<"input 3 numbers"<<endl;
+ cout<<"Input first: ";
+ cin>>a;
+ cout<<"Input second: ";
+ cin>>b;
+ cout<<"Input third: ";
+ cin>>c;
+ cout << a << '\t' << b<<'\t' << c << endl; 
+a+=b+++c;
+cout << a << '\t' << b<<'\t' << c << endl; 
+}
+Hello,world
+Hello! Input number 25
+Number= 25
+a= 20
+funct2 b=41 g=40
+funct2 b=41 g=80
+funct1 b=12
+g= 12
+******************
+cpp.sh/5elrb
